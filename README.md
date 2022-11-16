@@ -1,2 +1,2 @@
-I am a youtuber and coder. Portuguese and English speaker.
-Eu sou um YouTuber e Programador. Falo português e inglês.
+EN: I am a youtuber and coder portuguese and English speaker.
+PT: Eu sou um YouTuber e Programador, falo português e inglês.

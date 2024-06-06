@@ -1,4 +1,4 @@
-EN: I am a youtuber and coder, portuguese and English speaker.
+EN: I'm a youtuber and coder, portuguese and English speaker.
 PT: Eu sou um YouTuber e Programador, falo português e inglês.
 
 ## Linguagens de programação que sabo / Code Languages that I know
